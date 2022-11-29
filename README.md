@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @drunasir
-- 👀 I’m interested in Java, Android, SOftware Engineeering, Camping and much more!
+- 👀 I’m interested in Java, Android, Software Engineeering, Camping and much more!
 - 🌱 I’m currently learning Android
 - 💞️ I’m looking to collaborate on teachign Android to undergraduate students
 - 📫 How to reach me 
